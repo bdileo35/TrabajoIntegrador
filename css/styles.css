@@ -1,0 +1,127 @@
+/* font-family "Nanum Brush Script", cursive */
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Brush+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Delicious+Handrawn&display=swap');
+
+.isoTipo {
+  font-family: 'Roboto', sans-serif;
+  font-size: x-large;
+  color: rgba(241, 230, 22, 0.89);
+}
+
+.pwebmail {
+  padding-left: 80px;
+}
+
+.boleta {
+  text-align: right;
+  padding-left: 680px;
+}
+
+
+.historia {
+  justify-content: center;
+  padding-left: 50px;
+  padding-right: 50px;
+
+}
+
+nav {
+ 
+  position: fixed;
+  top: 0;
+  width: 100%;
+
+}
+
+
+.icono {
+  padding: 1rem;
+}
+
+.carousel-caption {
+  background-color: rgba(0, 0, 0, 0.504);
+  border-radius: 15px;
+}
+
+div.nos {
+  text-align: center;
+}
+
+.nos {
+
+  justify-content: center;
+  padding: 1rem;
+  justify-content: space-between;
+  align-items: center;
+}
+
+
+
+
+.hero {
+  margin-top: 50px;
+}
+
+.subTtl {
+  color: rgb(29, 90, 182)
+}
+
+.container{
+  padding-top: 2rem;
+  border-top: 1px solid lightslategray;
+}
+.main-article {
+  margin-top: 2rem;
+  /*margin-bottom: 8rem;*/
+  /*padding-bottom: 2rem;*/
+  /*border-top: 1px solid lightslategray;
+  
+  border-bottom: 1px solid lightslategray;
+*/
+}
+
+#Contacto {
+  background-image: url("../assets/Camino1.jpg");
+  background-size: cover;
+  height: 750px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#Reclamos {
+  background-image: url("../assets/Camino1.jpg");
+  background-size: cover;
+  height: 750px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#Reclamos form {
+  background: linear-gradient(140deg, rgba(150, 204, 211, 0.6) 10%, rgba(179, 210, 214, 0.6) 45%, rgba(202, 213, 215, 0.6) 100%);
+  padding: 2rem;
+  box-shadow: 6px 6px 10px;
+  border-radius: 2%;
+  height: 650px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between
+}
+
+#Contacto form {
+  background: linear-gradient(140deg, rgb(150, 204, 211, 0.6) 10%, rgb(179, 210, 214, 0.6) 45%, rgb(202, 213, 215, 0.6) 100%);
+  padding: 2rem;
+  box-shadow: 6px 6px 10px;
+  border-radius: 2%;
+  height: 650px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between
+}
+
+.btnForm {
+  justify-content: end;
+  column-gap: 0.5rem;
+
+}

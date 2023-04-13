@@ -1,0 +1,124 @@
+***** Lo que se encuentra entre parentesis son las imagenes correspondientes *****
+Menu
+
+Inicio
+Autoridades
+Historia
+Contactos
+Noticias
+G.I.S.
+Compras
+
+
+( favicdpv )
+
+LOGO ( logoDpv  ) *** se puede achicar  ***
+
+
+carrusel ( slide1 slide2 slide3 )
+
+
+Por nuestras rutas siempre junto a vos !!
+
+
+( webmail )	(facebook, gorjeo, youtube, instagram )		( boleta )
+
+
+
+
+Inicio (imagenInicio)
+
+La Dirección Provincial de Vialidad de Tucumán es el organismo encargado de la Red Vial de la Provincia.
+
+Fue creada en 1932 por el Ingeniero Roberto Robles Mendilaharzu quien presidía el primer Directorio. En el año 1967 se sanciona la ley 3.485 que regula su actual funcionamiento.
+
+Funciona desde su edificio central en San Miguel de Tucumán, y una extendida malla de campamentos. Desde los campamentos se remite diariamente por radiocomunicación el estado de las rutas y el estado del tiempo, el usuario puede consultar al teléfono 0381-4330404 las 24 horas para requerir tal información.
+
+El edificio central de calle Mendoza 1.565 es la sede del Comité Ejecutivo integrado por El Administrador, El Secretario de Obras, El Secretario de Economía.
+
+Vialidad de la provincia es un Ente Autárquico con Fuentes de Financiación compuesta por: Fondos de Coparticipación Federal de Impuestos a los Combustibles, Aportes del Tesoro Provincial, Recursos Propios de Recaudación Directa, Ley 7.280, Ley 7.215 y Uso de Créditos.
+
+La red de caminos que administra, se extiende a lo largo del territorio provincial y totalizan entre rutas Primarias y Secundarias un Total de: 2.143 Km. Las Pavimentadas suman un total de: 1.066 Km. Las Enripiadas: suman 930 Km. y Las Naturales Suman: 147 Km
+
+El variado relieve de la provincia y la existencia de abundantes ríos y cursos de aguas hacen que cuente con un promedio aproximado de un Puente por cada 12 Km de ruta.
+
+
+
+Autoridades ( admcirc, ecocirc, obracirc )
+
+Administrador: Ing.  
+
+Sec. de Economía: C.P.N.
+
+Sec. de Obras: Ing.  
+
+
+Organigrama ( organigrama22 )
+
+
+Historia ( historia historia1 historia2 )
+
+1930.- Por Ley Provincial N° 1.491, del 22 de Julio, se crea el primer ente provincial dedicado a la actividad vial y a lo concerniente al turismo. Se denomina JUNTA PROVINCIAL DE VIALIDAD Y TURISMO. Con anterioridad, la actividad vial propiamente dicha estaba a cargo de la Dirección General de Obras Públicas de la Provincia.-
+
+1935.- Por Ley Provincial 1.556 se dan por terminadas las funciones de la JUNTA y se crea la DIRECCIÓN PROVINCIAL DE VIALIDAD. Tal emprendimiento legislativo tiene por finalidad permitir a la provincia ajustarse al marco de lo establecido por la Ley Nacional n° 11.658 y percibir los Fondos de Ayuda Federal. La institución adquiere el carácter de autónoma y cuenta con fondos específicos.-
+
+1959.- 9 de Enero. Por Ley Provincial N° 2.787 la provincia se adhiere al Decreto Ley N° 505/58 en virtud del cual se transforma la AYUDA FEDERAL en el FONDO NACIONAL DE VIALIDAD el que sería distribuido por COPARTICIPACION FEDERAL. Se cambia el carácter autónomo por el de autárquico tal como lo exige la norma nacional.-
+
+1967.- 8 de Setiembre. Por Ley Provincial N° 3.485 se dicta la CARTA ORGÁNICA DE LA DIRECCIÓN PROVINCIAL DE VIALIDAD; en la misma se establecen los lineamientos de funcionamiento de la institución y sus competencias. Esta es la ley que rige a la DPV hasta el presente.-
+
+
+
+imagen fija ensitio web   ( imFija )
+
+
+
+Contactos
+
+Domicilio:
+Mendoza N°1565 – S.M.de Tucumán Código Postal: 4.000
+
+E-mail: dpvtucuman@dpv.mecontuc.gov.ar
+
+Teléfonos:
+
+54-381-4330404/05 – 4330594 – Casa Central
+54-3867-421030 – Tafí del Valle
+54-3892-421132 – Amaicha del Valle
+54-381-4293416 – San Felipe
+
+***** HTML maps Ubicacion ****
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3560.477505568658!2d-65.22227268495695!3d-26.824760683165515!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94225c6a014942c9%3A0x415723b9aa1ccd83!2sPcia%20de%20Mendoza%201565%2C%20T4000%20San%20Miguel%20de%20Tucum%C3%A1n%2C%20Tucum%C3%A1n!5e0!3m2!1ses-419!2sar!4v1681154188546!5m2!1ses-419!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+**** Codigo del G.I.S. **** 
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1DEgu9ctFnMZBD3P045y8tUcqa_KTIH22&amp;ehbc=2E312F" width="640" height="480"></iframe>
+
+
+**** Codigo del clima **** 
+
+<!-- www.tutiempo.net - Ancho:477px - Alto:91px -->
+<div id="TT_yCJEkEkkE22aEQIAjfujjjjjzWlALdCFrdkYEsyIK1DIm53Im">El tiempo - Tutiempo.net</div>
+<script type="text/javascript" src="https://www.tutiempo.net/s-widget/l_yCJEkEkkE22aEQIAjfujjjjjzWlALdCFrdkYEsyIK1DIm53Im"></script>
+
+
+
+(logoDpv ,  QR-DPV-250x250)
+
+Para agendar la D.P.V escanea el código QR
+
+
+
+video1
+
+https://youtu.be/jukb18hgBtM
+
+video2
+
+https://youtu.be/5cyOFAvVCiY
+
+video3
+
+https://youtu.be/HZZMb7fzs5o
+
