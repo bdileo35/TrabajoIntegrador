@@ -21,17 +21,15 @@ const form3 = document.getElementById("frmConsulta")
 
 const btnFormRec = document.getElementsByClassName("btnFormRec")
 const btnConsulta = document.getElementsByClassName("btnConsulta")
-console.log(ConsultaC.value);
 
 for (let i = 0; i < btnFormRec.length; i++) {
     btnFormRec[i].addEventListener("click", gestionFormRec)
 }
 
-btnConsulta[0].addEventListener("click", enviarConsulta);  
-
+btnConsulta[0].addEventListener("click",enviaConsulta );  
 
 function gestionFormRec(e) {
-
+    e.preventDefault();
     switch (e.target.id) {
         case 'btnSiguienteF1':
             form1.classList.toggle("d-none");
@@ -51,7 +49,8 @@ function gestionFormRec(e) {
 
 }
 
-function enviarConsulta(){ 
+function enviaConsulta(e){ 
+    e.preventDefault();
     console.log(`
     Nombre: ${fullNameC.value}
     Teléfono: ${telefonoC.value}
