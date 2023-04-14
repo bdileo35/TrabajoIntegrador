@@ -7,7 +7,10 @@
   font-size: x-large;
   color: rgba(241, 230, 22, 0.89);
 }
-
+.mailBoletas{
+  display: flex;
+  justify-content: space-around;
+ }
 .pwebmail {
   padding-left: 80px;
 }
