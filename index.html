@@ -54,7 +54,7 @@
                             <a class="nav-link" href="#Reclamos1">Reclamos</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link " href="#Contacto1">Contactos</a>
+                            <a class="nav-link " href="#Consulta1">Consultas</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link " href="#Nosotros1">Nosotros</a>
@@ -132,26 +132,15 @@
 
             <!-- Alineacion de webmail y boleta  -->
 
-            <!-- <h3 style="text-align:center">Por nuestras rutas siempre junto a vos !!</h3>
-
-            <a class="pwebmail" href="http://www.mecontuc.gov.ar/correomecon/src/login.php" target="_blank">
-                <img border="0" alt="webmail" src="./assets/webmail.png" width="220" height="60">
-            </a>
-
-
-            <a class="boleta" href="https://boletas.dpvtucuman.gob.ar/" target="_blank">
-                <img border="0" alt="ReciboDigital" src="./assets/boleta.jpg" width="220" height="60">
-            </a> -->
-
             <h3 style="text-align:center">Por nuestras rutas siempre junto a vos !!</h3>
             <div class="my-5  mailBoletas">
-    
-                <a  href="http://www.mecontuc.gov.ar/correomecon/src/login.php" target="_blank">
+
+                <a href="http://www.mecontuc.gov.ar/correomecon/src/login.php" target="_blank">
                     <img border="0" alt="webmail" src="./assets/webmail.png" width="220" height="60">
                 </a>
-    
-    
-                <a  href="https://boletas.dpvtucuman.gob.ar/" target="_blank">
+
+
+                <a href="https://boletas.dpvtucuman.gob.ar/" target="_blank">
                     <img border="0" alt="ReciboDigital" src="./assets/boleta.jpg" width="220" height="60">
                 </a>
 
@@ -365,40 +354,42 @@
             </div>
 
 
-            <div id="Contacto1" class="mb-5">
+            <div id="Consulta1" class="mb-5">
                 <br>
             </div>
-            <div class="container"><!--Sección Contacto-->
-                <h2 id="lblContacto" class="display-6 mb-3">Contacto</h2>
+            <div class="container"><!--Sección Consulta-->
+                <h2 id="lblContacto" class="display-6 mb-3">Consultas</h2>
 
                 <section id="Contacto" class="row">
                     <div class="col-12 col-sm-11 col-md-8 col-lg-6">
-                        <form id="frmContacto">
+                        <form id="frmConsulta">
                             <fieldset>
                                 <legend class="mb-3">Dejanos tu consulta</legend>
                                 <div class="mb-3"><!--NombreCompleto-->
-                                    <label for="fullName" class="form-label">Nombre</label>
-                                    <input type="text" id="fullName" class="form-control">
+                                    <label for="fullNameC" class="form-label">Nombre</label>
+                                    <input type="text" id="fullNameC" class="form-control">
                                 </div>
                                 <div class="mb-3"><!--Telefono-->
-                                    <label for="telefono" class="form-label">Teléfono</label>
-                                    <input type="tel" id="telefono" class="form-control">
+                                    <label for="telefonoC" class="form-label">Teléfono</label>
+                                    <input type="tel" id="telefonoC" class="form-control">
                                 </div>
                                 <div class="mb-3"><!--Email-->
-                                    <label for="email" class="form-label">Correo electrónico</label>
-                                    <input type="email" id="email" class="form-control" aria-describedby="emailHelp">
+                                    <label for="emailC" class="form-label">Correo electrónico</label>
+                                    <input type="email" id="emailC" class="form-control" aria-describedby="emailHelp">
                                     <div id="emailHelp" class="form-text">Nunca compartiremos su email con un tercero
                                     </div>
                                 </div>
+
                                 <div class="mb-3"><!--Consulta-->
-                                    <label for="Consulta" class="form-label">Consulta</label>
-                                    <textarea class="form-control" name="Consulta" rows="6"></textarea>
+                                    <label for="ConsultaC" class="form-label">Consulta</label>
+                                    <textarea id="ConsultaC" class="form-control" cols="30" rows="3"></textarea>
 
                                 </div>
 
                             </fieldset>
-                            <div>
-                                <button type="submit" class="btn btn-outline-dark">Enviar</button>
+                            <div class="d-flex btnForm"> <!--btnConsulta-->
+                                <button id="btnEnvConsulta" type="submit" class="btn btn-outline-dark btnConsulta"
+                                    data-bs-toggle="modal" data-bs-target="#formModal">Enviar</button>
                             </div>
                         </form>
 
@@ -415,40 +406,40 @@
         <div class="container  "><!--Sección Nosotros-->
             <h2 class="display-6">Nosotros</h2>
             <section id="Nosotros" class="row">
-                
+
                 <h2 class="section-title">Conoce a nuestro equipo</h2>
                 <div class="team bg-body-secondary ">
-                        <div class="team-member">
-                            <img src="https://randomuser.me/api/portraits/men/1.jpg" alt="Persona 1">
-                            <h4>Juan Carlos Dileo</h4>
-                            <p>bdileo35@gmail.com</p>
-                        </div>
-                        <div class="team-member">
-                            <img src="https://randomuser.me/api/portraits/men/3.jpg" alt="Persona 2">
-                            <h4>Gustavo Furrer</h4>
-                            <p>gustavofurrer1@gmail.com</p>
-                        </div>
-                        <div class="team-member">
-                            <img src="https://randomuser.me/api/portraits/women/4.jpg" alt="Persona 4">
-                            <h4>Virginia A.Gutierrez </h4>
-                            <p>virginia1612@gmail.com</p>
-                        </div>
-                        <div class="team-member">
-                            <img src="https://randomuser.me/api/portraits/men/6.jpg" alt="Persona 5">
-                            <h4>José Pedraza</h4>
-                            <p>jose_maria71@hotmail.com</p>
-                        </div>
-                        <div class="team-member">
-                            <img src="https://randomuser.me/api/portraits/men/2.jpg" alt="Persona 3">
-                            <h4>Diego Terra</h4>
-                            <p>cesarterra1975@gmail.com</p>
-                        </div>
+                    <div class="team-member">
+                        <img src="https://randomuser.me/api/portraits/men/1.jpg" alt="Persona 1">
+                        <h4>Juan Carlos Dileo</h4>
+                        <p>bdileo35@gmail.com</p>
                     </div>
-                
+                    <div class="team-member">
+                        <img src="https://randomuser.me/api/portraits/men/3.jpg" alt="Persona 2">
+                        <h4>Gustavo Furrer</h4>
+                        <p>gustavofurrer1@gmail.com</p>
+                    </div>
+                    <div class="team-member">
+                        <img src="https://randomuser.me/api/portraits/women/4.jpg" alt="Persona 4">
+                        <h4>Virginia A.Gutierrez </h4>
+                        <p>virginia1612@gmail.com</p>
+                    </div>
+                    <div class="team-member">
+                        <img src="https://randomuser.me/api/portraits/men/6.jpg" alt="Persona 5">
+                        <h4>José Pedraza</h4>
+                        <p>jose_maria71@hotmail.com</p>
+                    </div>
+                    <div class="team-member">
+                        <img src="https://randomuser.me/api/portraits/men/2.jpg" alt="Persona 3">
+                        <h4>Diego Terra</h4>
+                        <p>cesarterra1975@gmail.com</p>
+                    </div>
+                </div>
+
             </section>
         </div>
     </div>
-   
+
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN"
